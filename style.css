@@ -264,7 +264,7 @@ header {
   height: 300px;
   background: black;
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/assets/asset\ 36.jpeg);
+    url(https://ahmadhassan-999.github.io/UsabilityHub-website-clone-created-by-me-Ahmad-Hassan-Dev/assets/asset\ 36.jpeg);
   background-size: cover;
   transition: 0.2s ease-out;
 }
@@ -275,18 +275,18 @@ header {
 
 .example-card:nth-child(2) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/assets/asset\ 37.jpeg);
+    url(https://ahmadhassan-999.github.io/UsabilityHub-website-clone-created-by-me-Ahmad-Hassan-Dev/assets/asset\ 37.jpeg);
   background-size: cover;
 }
 .example-card:nth-child(3) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/assets/asset\ 38.jpeg);
+    url(https://ahmadhassan-999.github.io/UsabilityHub-website-clone-created-by-me-Ahmad-Hassan-Dev/assets/asset\ 38.jpeg);
   background-size: cover;
 }
 
 .example-card:nth-child(4) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/assets/asset\ 39.jpeg);
+    url(https://ahmadhassan-999.github.io/UsabilityHub-website-clone-created-by-me-Ahmad-Hassan-Dev/assets/asset\ 39.jpeg);
   background-size: cover;
 }
 
